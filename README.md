@@ -11,4 +11,4 @@ The goal on the behind of that project is to develop a model that analyse that p
 6.   Model Performance
 7.   Model Performance
 8.   Model Prediction
-9.   Saving  Mod
+9.   Saving  Model
