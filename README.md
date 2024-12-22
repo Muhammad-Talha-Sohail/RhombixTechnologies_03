@@ -12,3 +12,7 @@ The goal on the behind of that project is to develop a model that analyse that p
 7.   Model Performance
 8.   Model Prediction
 9.   Saving  Model
+
+
+https://github.com/user-attachments/assets/2c041fe6-ada8-4513-b071-619d3271601d
+
